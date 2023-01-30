@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ModoTech
-- 👀 I’m interested in javaScript, html, laravel, C++, css
-- 🌱 I’m currently learning laravel, Javascript, C++
+- 👀 Fullstack web developer
 - 💞️ I’m looking to collaborate on web application development, offline system development
-- 📫 How to reach me email _leenihat@gmail.com_
+- 📫 How to reach me email _kevinleen.kl@gmail.com_
 
 <!---
 ModoTech/ModoTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
